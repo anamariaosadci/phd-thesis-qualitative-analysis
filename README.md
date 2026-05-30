@@ -28,8 +28,8 @@ The numbers reported in the thesis were reproduced with the exact package versio
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/anamariaosadci/phd-thesis-qualitative-analysis.git
+cd phd-thesis-qualitative-analysis
 
 # 2. Virtual environment (recommended)
 python -m venv .venv
