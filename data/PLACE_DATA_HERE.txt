@@ -1,0 +1,10 @@
+The aggregated interview data file (Aggregated_EN.docx) belongs here.
+
+It is NOT included in this repository. The ten semi-structured interviews
+were conducted under a confidentiality agreement guaranteeing participant
+anonymity, so the transcripts are not publicly distributed.
+
+To run the scripts, place the file in this folder as:
+    data/Aggregated_EN.docx
+
+Access requests: see the README.
